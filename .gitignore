@@ -1,0 +1,16 @@
+venv/
+data/
+mlruns/
+mlflow.db
+__pycache__/
+*.pyc
+*.pkl
+*.db
+.env
+retrain_xgboost.py
+test_mlflow.py
+test_preprocessing.py
+check_model.py
+generate_shap.py
+shap_summary.png
+shap_bar.pngtest_artifact.txt 
